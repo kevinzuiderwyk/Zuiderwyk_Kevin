@@ -1,1 +1,1 @@
-# soy una linea de codigo en JS
+// Soy una linea de codigo en JS
